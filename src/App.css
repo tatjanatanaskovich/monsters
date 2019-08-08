@@ -1,3 +1,10 @@
 .App {
   text-align: center;
 }
+
+h1 {
+  font-family: 'Creepster', cursive;
+  font-size: 72px;
+  letter-spacing: 10px;
+  color: #0ccac4;
+}
